@@ -1,4 +1,5 @@
 #include "Play.h"
+#include "stdio.h"
 
 void letsPlay()
 {
